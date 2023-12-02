@@ -80,7 +80,7 @@ class CalibrationValueCalculator:
 
 
 # Example of use
-path = "./input-calibration-value.txt"
+path = "./input.txt"
 calculator = CalibrationValueCalculator(path)
 
 print(calculator.calculate())
